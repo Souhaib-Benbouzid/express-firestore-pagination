@@ -1,0 +1,9 @@
+node_modules/
+
+authConfig.js
+
+serviceAccountKey.json
+.env
+
+ui-debug.log
+firbaseConfig.js
